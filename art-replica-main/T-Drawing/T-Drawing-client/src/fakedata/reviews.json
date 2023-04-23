@@ -1,0 +1,22 @@
+[
+    {
+        "service_id": "06",
+        "email":"strikerabirhasan@gmail.com",
+        "name": "Abir Hasan",
+        "rating":"4.5",
+        "img": "https://i.ibb.co/jhJtvMg/4.webp",
+        "price": "30.00",
+        "comment": "This is also called egg tempera painting as egg yolks are used as the binding medium.",
+        "review_no": "1"
+    },
+    {
+        "service_id": "02",
+        "email":"cse.170201063@gmail.com",
+        "name": "Abir",
+        "rating":"4.5",
+        "img": "https://i.ibb.co/jhJtvMg/4.webp",
+        "price": "30.00",
+        "comment": "This is also called egg tempera painting as egg yolks are used as the binding medium.",
+        "review_no": "2"
+    }
+]

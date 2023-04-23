@@ -1,0 +1,50 @@
+[
+    {
+        "service_id": "01",
+        "title": "Oil Painting",
+        "rating":"4.5",
+        "img": "https://i.ibb.co/BjG2nPr/5.webp",
+        "price": "50.00",
+        "description": "One of the oldest painting forms, it is known as a slow drying medium and uses pigments that are suspended in oil. Some of the more common oils include linseed, walnut, and poppy seed. You can easily work on a piece for extended periods, without having to worry that the paint is going to dry out. The pigments are also vibrant and produce rich colors. However, some of the pigments are considered toxic and you have to work with mineral spirits to clean things up. The paints produce a glossy type of finish that is durable, however, some of the oil paints you get today have varying degrees of lightfastness. This means they fade at different levels, which should be disclosed on the tubes of paint you purchase."
+    },
+    {
+        "service_id": "02",
+        "title": "Acrylic Painting",
+        "rating":"4.5",
+        "img": "https://i.ibb.co/cC7RJhZ/6.webp",
+        "price": "30.00",
+        "description": "Acrylics are one of the more modern types of painting and were developed in the 1930s. This particular type of painting became quite popular, as it is fast-drying and also water-based. These are also considered non-toxic, and you can simply use water to clean everything up as long as the paint is still wet. This is because it dries to a hard plastic-like finish and is water-resistant once dry. The paints are also cheaper than the oil paints, making them more accessible to many. The paint is also quite durable and will not yellow or form cracks over time. There is an abundance of different colors available, to which you can add different mediums. These mediums alter the way the paint works, for example, you can add a medium that helps lengthen the drying time. So, there are many techniques available, which makes acrylics extremely versatile. You can also apply acrylic paints to numerous surfaces from paper to canvas, ceramics, fabric, and more."
+    },
+    {
+        "service_id": "03",
+        "title": "Watercolor Painting",
+        "rating":"4.5",
+        "img": "https://i.ibb.co/MMpdDFC/2.webp",
+        "price": "40.00",
+        "description": "Watercolor painting is also popular and can be done by beginners, however, it does require a little more skill to do it properly. The paint is usually transparent and contains a pigment and a binder. These paints are water-based, so they are safe to use, and you can clean up by simply using water. Watercolor paper is what you would use to paint on. Watercolors are considered a little unforgiving if you have made a mistake as it dries fairly quickly, but there are a few methods you can use to fix mistakes. For example, you can reactivate the paint using a wet brush. You can use various watercolor techniques to create various painting styles, from landscapes to portraits and more."
+    },
+    {
+        "service_id": "04",
+        "title": "Pastel Art",
+        "rating":"4.5",
+        "img": "https://i.ibb.co/3yvHF7x/1.webp",
+        "price": "45.00",
+        "description": "This has also been called “dry painting” and has been a popular medium for many years. The pastels come in a stick form and are easy to carry around. The pastel sticks are made from pigment powder with a binding agent, which is then formed into ready-to-use pastel sticks. Pastels can be used on paper and canvas and provide vibrant and pure colors. You get two main different kinds including soft pastels, which are the most popular, and oil pastels, which have an oily type of consistency. There is also a water-soluble variety that can produce watercolor-like effects. You can blend the colors while using them on the surface. The pigment itself can lift off the surface, so any artwork needs to be framed and covered."
+    },
+    {
+        "service_id": "05",
+        "title": "Glass Painting",
+        "rating":"4.5",
+        "img": "https://i.ibb.co/sQ7mvbh/3.webp",
+        "price": "60.00",
+        "description": "Glass painting is quite popular, and you can create all kinds of amazing art pieces. You can paint on windows, glasses, jars, or any glass surface. You can use oil paints, acrylic, or acrylic enamel paints, as well as solvent-based paints. However, it is best to use paints that are specifically manufactured for painting glass. Some of these paints will be opaquer, while other paints are more transparent. In some cases, the painted item needs to be cured in the oven. Others will require a protective layer to protect from things like moisture and UV light. Stained glass is in a whole other category and uses metallic salts during the manufacturing process. The glass windows consist of small colored glass pieces that form a pattern or image and are usually held together by lead and placed in a rigid frame."
+    },
+    {
+        "service_id": "06",
+        "title": "Tempera Painting",
+        "rating":"4.5",
+        "img": "https://i.ibb.co/jhJtvMg/4.webp",
+        "price": "30.00",
+        "description": "This is also called egg tempera painting as egg yolks are used as the binding medium. These paints dry fast and are an even older painting technique than oil painting. However, today instead of eggs, glycerin, gum, or casein is used as the binder. When using traditional painting techniques, tempera provides more precision and requires many applications of a cross-hatching brush stroke. Once dry, it has a smooth matte finish. "
+    }
+]
